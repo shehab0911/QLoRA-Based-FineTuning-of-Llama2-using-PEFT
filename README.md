@@ -1,5 +1,5 @@
 
-# Llama2 Fine-Tuning with PEFT & QLoRA
+# Llama2 Fine-Tuning with PEFT & QLoRA on Custom Dataset
 
 ## 🚀 Project Overview
 This project focuses on **fine-tuning LLaMA 2** using **Parameter-Efficient Fine-Tuning (PEFT)** and **QLoRA (Quantized Low-Rank Adaptation)**. The goal is to efficiently adapt LLaMA 2 to specific tasks while reducing computational costs.
